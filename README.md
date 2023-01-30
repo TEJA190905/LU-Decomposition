@@ -19,8 +19,7 @@ To write a program to find the LU Decomposition of a matrix.
 Program to find the LU Decomposition of a matrix.
 Developed by: Ragul R
 RegisterNumber: 22003877
-```
-```
+
 1.Use LU Decomposition to find L and U matrix
 
 import numpy as np
@@ -32,7 +31,7 @@ print(l)
 print(u)
 ```
 
-```
+```python
 2.Use LU Decomposition to solve a matrix.
 
 import numpy as np
