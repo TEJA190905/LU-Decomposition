@@ -15,10 +15,10 @@ To write a program to find the LU Decomposition of a matrix.
 5.Print L and U matrix.
 
 ## Program:
-```
+```python
 Program to find the LU Decomposition of a matrix.
-Developed by: S JAVITH FARKHAN
-RegisterNumber: 21004303
+Developed by: Ragul R
+RegisterNumber: 22003877
 ```
 ```
 1.Use LU Decomposition to find L and U matrix
